@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "HOOKS!"
+killall -9 julia
+exit 0
